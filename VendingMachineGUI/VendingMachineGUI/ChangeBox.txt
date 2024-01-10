@@ -1,0 +1,11 @@
+0.1,dime
+0.1,dime
+0.1,dime
+0.05,nickel
+0.05,nickel
+0.01,penny
+0.01,penny
+0.01,penny
+0.01,penny
+0.01,penny
+0.01,penny

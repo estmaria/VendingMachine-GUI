@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineGUI", "VendingMachineGUI\VendingMachineGUI.csproj", "{A172F6E6-8258-4B8A-98F9-CDFBF36DFF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A172F6E6-8258-4B8A-98F9-CDFBF36DFF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A172F6E6-8258-4B8A-98F9-CDFBF36DFF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A172F6E6-8258-4B8A-98F9-CDFBF36DFF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A172F6E6-8258-4B8A-98F9-CDFBF36DFF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB24DE03-1475-4288-8718-A4C5060D5AD2}
+	EndGlobalSection
+EndGlobal

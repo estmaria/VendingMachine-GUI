@@ -1,0 +1,58 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Form1.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.pdb
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe.config
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.pdb
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.AssemblyReference.cache
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Properties.Resources.resources
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.GenerateResource.cache
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.CoreCompileInputs.cache
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.exe
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.pdb
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.ModifyProductForm.resources
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.AddProductForm.resources
+C:\Users\seamu\OneDrive\Desktop\Sanders' project\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.VendingMachineGUI.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.AddProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.VendingMachineGUI.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.ModifyProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.AddProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.VendingMachineGUI.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.ModifyProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\Personal\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\bin\Debug\VendingMachineGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.AddProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.VendingMachineGUI.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.ModifyProductForm.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineGUI Final\VendingMachineGUI\VendingMachineGUI\obj\Debug\VendingMachineGUI.pdb

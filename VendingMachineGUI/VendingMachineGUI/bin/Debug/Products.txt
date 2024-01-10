@@ -1,0 +1,19 @@
+A1,Doritos,1.25,6
+A2,Lays,1.25,6
+A3,Raffles,1.25,6
+A4,Pink Munchers,1.5,5
+A5,Chicken Sandwich,2.5,4
+A6,Fish Sandwich,2.25,4
+B1,Snickers,1.75,5
+B2,Chocolate,1.5,5
+B3,PB Chocolate,1.75,5
+B5,Fanta,1.25,6
+B6,7UP,1.25,6
+B7,Pineapple Fanta,1.5,4
+C1,Coke,1.5,5
+C2,Sprite,1.5,5
+C3,Fimmy,1.25,4
+C4,Quirty,1.25,4
+C5,Coco Punch,1.5,6
+C6,Zebra Zest,1.75,4
+C7,Tris,1.75,8

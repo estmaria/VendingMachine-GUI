@@ -1,0 +1,6 @@
+1,dollar
+0.25,quarter
+1,dollar
+1,dollar
+1,dollar
+1,dollar
