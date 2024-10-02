@@ -1,5 +1,5 @@
 # VendingMachine-GUI
-This is GUI simulation of a vending machine. When the program is starts it reads from two text files to set up its inventory and the cange box. It has two modes in which you can do different things:
+This is GUI simulation of a vending machine. When the program is starts it reads from two text files to set up its inventory and the change box. It has two modes in which you can do different things:
 
 # Vending Mode
 - Look up the price or quantity left of a product: enter the code of the product and press "Enter".
