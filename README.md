@@ -1,5 +1,5 @@
 # VendingMachine-GUI
-This is GUI simulation of a vending machine built using Object Oriented Programming. When the program is starts it reads from two text files to set up its inventory and the change box. It has two modes in which you can do different things:
+This is GUI simulation of a vending machine built using Object Oriented Programming. When the program is starts it reads from two text files to set up its inventory (Products.txt) and the change box (ChangeBox.txt). It has two modes in which you can do different things:
 
 # Vending Mode
 - Look up the price or quantity left of a product: enter the code of the product and press "Enter".
@@ -11,6 +11,6 @@ This is GUI simulation of a vending machine built using Object Oriented Programm
 - Add products: press "Add products", select one of the avaliable codes, choose a description, a price and a quatity and press "Confirm".
 - Modify prices: press "Modify prices",  select the product you want to change the price from, choose the new price, and press "Confirm".
 - Empty coin box: press "Empty coinbox and all the monney that has been entered to buy products will be empty.
-- Restock: when you press "Restock" all products will be restocked. The program reads a text file where is specified the quantity of each product that you want.
+- Restock: when you press "Restock" all products will be restocked as well as the change box. The program reads two text files where is specified the quantity of each product and each coin that you want to be restocked. 
 - Change Password: press the "Change password", enter the new password, and press the button again to confirm. This will change the text file where the password is stored.
 - Quit: press "Quit" and you will return to the Vending Mode.
