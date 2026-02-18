@@ -14,3 +14,6 @@ This is GUI simulation of a vending machine built using Object Oriented Programm
 - Restock: when you press "Restock" all products will be restocked as well as the change box. The program reads two text files where is specified the quantity of each product and each coin that you want to be restocked. 
 - Change Password: press the "Change password", enter the new password, and press the button again to confirm. This will change the text file where the password is stored.
 - Quit: press "Quit" and you will return to the Vending Mode.
+
+<img width="760" height="900" alt="GUI image" src="https://github.com/user-attachments/assets/afa577b7-df39-406e-8f7b-78afad3a3da8" />
+
